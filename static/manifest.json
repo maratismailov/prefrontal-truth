@@ -1,0 +1,14 @@
+{
+    "name": "prefrontal truth",
+    "description": "prefrontal truth",
+    "display": "standalone",
+    "start_url": "/",
+    "icons": [
+      {
+        "src": "icons/512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ]
+  }
